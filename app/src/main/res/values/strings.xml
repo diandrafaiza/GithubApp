@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">GitHubUserApp</string>
+    <string name="favorite2">Favorite</string>
+    <string name="detail_user">Detail User</string>
+    <string name="setting">Settings</string>
+
+    <string name="logo">LOGO</string>
+    <string name="github">GitHub</string>
+    <string name="softdev">Software Development</string>
+    <string name="logo_github">Logo Github</string>
+    <string name="p_name">Name</string>
+    <string name="p_username">Username</string>
+    <string name="p_company">Company</string>
+    <string name="search">Search</string>
+    <string name="about_me">Say Hi!</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="search_hint">Masukkan username</string>
+
+    <string name="searching">Searching</string>
+    <string name="url_github">Url GitHub User</string>
+    <string name="following_text">Following</string>
+    <string name="followers_text">Followers</string>
+    <string name="repository_text">Repository</string>
+    <string name="repository">1000</string>
+    <string name="followers">1000</string>
+    <string name="following">1000</string>
+    <string name="follow_text">Follow</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="location_img">Logo location</string>
+    <string name="company_img">Logo company</string>
+
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="no_data">---</string>
+    <string name="opening_search">Search Username</string>
+    <string name="hello">Hello! This is Nabilah</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tema">Tema</string>
+    <string name="warning_favorite">Belum Menambahkan Favorite</string>
+    <string name="theme_setting">Theme Setting</string>
+</resources>
